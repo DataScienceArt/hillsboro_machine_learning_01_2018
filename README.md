@@ -1,2 +1,1 @@
-# https-github.com-ebonat-hillsboro_machine_learning_01_2018
 hillsboro_machine_learning_01_2018
